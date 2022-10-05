@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663803396 source:d:\usuario\Área de trabalho\programa\linguagem c\lista 2\3 - string\exercicio 3 - string\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

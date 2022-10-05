@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663801614 source:d:\linguagem c\lista de exercicio 2\string\exercicio 1 - string\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
